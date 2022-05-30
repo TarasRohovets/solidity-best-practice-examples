@@ -1,0 +1,12 @@
+{
+  "name": "solidity-best-practice-examples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TarasRohovets/solidity-best-practice-examples.git",
+  "author": "Taras <rohovets.taras@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "hardhat": "^2.9.7"
+  }
+}
